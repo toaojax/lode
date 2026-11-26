@@ -6,6 +6,8 @@ arch=('x86_64' 'aarch64')
 license=('MIT')
 depends=('qt6-base' 'qt6-declarative' 'qt6-wayland' 'libarchive')
 makedepends=('gcc' 'make')
+# A release build has no symbols, so a -debug package would be empty.
+options=('!debug')
 source=()
 sha256sums=()
 
