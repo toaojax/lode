@@ -1,0 +1,10 @@
+{
+  "%n day(s) ago": { "one": "%n day ago", "other": "%n days ago" },
+  "%n instance(s)": { "one": "%n instance", "other": "%n instances" },
+  "%n line(s)": { "one": "%n line", "other": "%n lines" },
+  "Installed %1 and %n dependencies": { "one": "Installed %1 and %n dependency", "other": "Installed %1 and %n dependencies" },
+  "%n file(s) can only be downloaded from CurseForge's website. Put them in the folders shown, then play.": {
+    "one": "%n file can only be downloaded from CurseForge's website. Put it in the folder shown, then play.",
+    "other": "%n files can only be downloaded from CurseForge's website. Put them in the folders shown, then play."
+  }
+}

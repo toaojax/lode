@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Lode
+Comment=Play Minecraft with mods from Modrinth and CurseForge
+Exec=lode %f
+Icon=lode
+Terminal=false
+Categories=Game;
+Keywords=minecraft;mods;modpack;modrinth;curseforge;launcher;
+MimeType=application/x-modrinth-modpack+zip;
+StartupWMClass=lode

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- A stone block flecked with ore: a lode. -->
+  <rect width="64" height="64" rx="14" fill="#24467c"/>
+  <rect x="12" y="12" width="40" height="40" rx="7" fill="#3a4250"/>
+  <g fill="#a5c8ff">
+    <rect x="17" y="17" width="10" height="10" rx="2.5"/>
+    <rect x="33" y="23" width="8" height="8" rx="2"/>
+    <rect x="22" y="34" width="8" height="8" rx="2"/>
+    <rect x="37" y="38" width="10" height="10" rx="2.5"/>
+  </g>
+  <g fill="#fbfcff" opacity="0.6">
+    <rect x="19" y="19" width="3" height="3" rx="1"/>
+    <rect x="39" y="40" width="3" height="3" rx="1"/>
+  </g>
+</svg>

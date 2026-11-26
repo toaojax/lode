@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="AccountsPage.qml">AccountsPage.qml</file>
+        <file alias="Avatar.qml">Avatar.qml</file>
+        <file alias="BlockedDialog.qml">BlockedDialog.qml</file>
+        <file alias="BrowsePage.qml">BrowsePage.qml</file>
+        <file alias="BusyStrip.qml">BusyStrip.qml</file>
+        <file alias="Chip.qml">Chip.qml</file>
+        <file alias="ConfirmDialog.qml">ConfirmDialog.qml</file>
+        <file alias="ContentTab.qml">ContentTab.qml</file>
+        <file alias="Field.qml">Field.qml</file>
+        <file alias="HelpOverlay.qml">HelpOverlay.qml</file>
+        <file alias="Icon.qml">Icon.qml</file>
+        <file alias="InstanceView.qml">InstanceView.qml</file>
+        <file alias="LibraryPage.qml">LibraryPage.qml</file>
+        <file alias="LogTab.qml">LogTab.qml</file>
+        <file alias="Main.qml">Main.qml</file>
+        <file alias="NavRail.qml">NavRail.qml</file>
+        <file alias="NewInstanceDialog.qml">NewInstanceDialog.qml</file>
+        <file alias="OptionsTab.qml">OptionsTab.qml</file>
+        <file alias="ProjectPanel.qml">ProjectPanel.qml</file>
+        <file alias="ResultCard.qml">ResultCard.qml</file>
+        <file alias="Segmented.qml">Segmented.qml</file>
+        <file alias="SettingsPage.qml">SettingsPage.qml</file>
+        <file alias="Sheet.qml">Sheet.qml</file>
+        <file alias="Surface.qml">Surface.qml</file>
+        <file alias="Tag.qml">Tag.qml</file>
+        <file alias="TButton.qml">TButton.qml</file>
+        <file alias="Toasts.qml">Toasts.qml</file>
+        <file alias="i18n/en.json">i18n/en.json</file>
+    </qresource>
+</RCC>
