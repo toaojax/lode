@@ -2,7 +2,7 @@
 
 A Minecraft launcher for Omarchy. Instances, mod loaders, and mods, resource
 packs, shaders and modpacks from Modrinth and CurseForge, in one window that
-takes its colors from Tonal and your wallpaper.
+takes its colors from your wallpaper.
 
 ![Lode browsing Modrinth for a Fabric instance](docs/screenshot.png)
 
